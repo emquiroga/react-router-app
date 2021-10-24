@@ -7,7 +7,7 @@ const FemaleScreen = () => {
 
   return (
     <div className="container mt-3">
-      <h1>Male Characters</h1>
+      <h1>Female Characters</h1>
       <hr />
       <div className="row">
         {femaleChars.map((femaleChars) => (
